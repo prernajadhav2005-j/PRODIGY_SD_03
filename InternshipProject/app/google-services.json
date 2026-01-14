@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928792607844",
+    "project_id": "cmsproject-877f6",
+    "storage_bucket": "cmsproject-877f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928792607844:android:6361c315d39e525043b371",
+        "android_client_info": {
+          "package_name": "com.example.project1cms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhq1PWnEZtVhGpOhXopkMSZ30yLsYAW8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
