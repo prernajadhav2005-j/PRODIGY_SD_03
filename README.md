@@ -12,11 +12,11 @@
    - Real-time database updates
 
 3. Technologies Used :
-    -Frontend: XML
-    -Backend: Java
-    -IDE: Android Studio
-    - Firebase Authentication
-    - Firebase Realtime Database
-    - RecyclerView
+    *Frontend: XML
+    *Backend: Java
+    *IDE: Android Studio
+    *Firebase Authentication
+    *Firebase Realtime Database
+    *RecyclerView
  
 
