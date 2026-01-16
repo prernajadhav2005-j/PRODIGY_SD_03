@@ -1,3 +1,5 @@
+PRODIGY_SD_03
+
 !!!Contact Management System (Android App)!!!
 
 1. Project Overview:-A simple Android application to manage contacts efficiently.The app allows users to add, view, edit, and delete contact information
@@ -18,5 +20,6 @@
     - Firebase Authentication
     - Firebase Realtime Database
     - RecyclerView
- 
+
+4. Author:- Prerna Jadhav
 
