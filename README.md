@@ -20,6 +20,5 @@ PRODIGY_SD_03
     - Firebase Authentication
     - Firebase Realtime Database
     - RecyclerView
-
 4. Author:- Prerna Jadhav
 
